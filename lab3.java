@@ -6,7 +6,7 @@ the complete details of the book. Develop a Java program to create n book
 objects.*/
 
 import java.util.*;
-public class Main{
+public class lab3{
 public static void main(String args[])
 {
 int t;
